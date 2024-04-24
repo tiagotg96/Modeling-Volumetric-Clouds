@@ -2,7 +2,7 @@
 
 Master's [dissertation](Dissertation/dissertation.pdf) in Computer Graphics, entitled: Real-Time-Volumetric-Cloud-Rendering.
 
-A shader (material graph in UE 5.3.2) was developed to model clouds:
+A shader ([material graph](MaterialGraph/) in UE 5.3.2) was developed to model clouds:
 
 - Two different noise layers were modeled: one for the base shape of the clouds (using a volume texture consisting of Perlin-Worley noise, from the UE Volumetrics Plugin) and one for the erosion details (using a volume texture consisting of Curly-Alligator noise, introduced in [Schneider, 2023](https://advances.realtimerendering.com/s2023/index.html#Nubis3));
 - The vertical density gradient is modeled using two 2D textures (following the methods to create the *Vertical Profile*, as in [Schneider, 2023](https://advances.realtimerendering.com/s2023/index.html#Nubis3)). The gradient textures that were used, are the [T_DensityGradient.tiff](DensityGradient/textures/T_DensityGradient.tiff) (this was had to be done by hand, using the other three gradients as interval references) and the [T_Bottom_DensityGradient.tiff](DensityGradient/textures/T_Bottom_DensityGradient.tiff);
