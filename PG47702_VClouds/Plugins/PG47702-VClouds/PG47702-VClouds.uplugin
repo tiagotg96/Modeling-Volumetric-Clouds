@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PG47702-VClouds",
+	"Description": "Master's dissertation project for the development and study of Computer Graphics. Dissertation entitled \"Real-Time Volumetric Cloud Rendering\" ",
+	"Category": "Other",
+	"CreatedBy": "PG47702 - Tiago Gomes",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
