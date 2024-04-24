@@ -12,6 +12,7 @@ A shader ([material graph](MaterialGraph/) in UE 5.3.2) was developed to model c
 - Developed as a [plugin](PG47702_VClouds/Plugins/).
 
 The template project has all the examples present in the results section of the [dissertation](Dissertation/dissertation.pdf) (using Material Instances).
+The [dissertation](Dissertation/dissertation.pdf) shall be used for any needed documentation.
 
 ###### Tiago Gomes | [PG47702](mailto:pg47702@alunos.uminho.pt) - University of Minho | Email: [tiagotg778@gmail.com](mailto:tiagotg778@gmail.com)
 
