@@ -14,6 +14,8 @@ A shader ([material graph](MaterialGraph/) in UE 5.3.2) was developed to model c
 The template project has all the examples present in the results section of the [dissertation](Dissertation/dissertation.pdf) (using Material Instances).
 The [dissertation](Dissertation/dissertation.pdf) shall be used for any needed documentation.
 
+The example results were rendered with the [HG+D](PhaseFunctionSampling/hg_d.hlsl) model, with *d = 12.0* (the *PhaseBlend* variable).
+
 ###### Tiago Gomes | [PG47702](mailto:pg47702@alunos.uminho.pt) - University of Minho | Email: [tiagotg778@gmail.com](mailto:tiagotg778@gmail.com)
 
 ---
