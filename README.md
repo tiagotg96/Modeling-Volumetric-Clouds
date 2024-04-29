@@ -1,6 +1,6 @@
-# Real-Time Volumetric Cloud Rendering
+# Modeling Volumetric Clouds
 
-Master's [dissertation](Dissertation/dissertation.pdf) in Computer Graphics, entitled: Real-Time-Volumetric-Cloud-Rendering.
+Master's [dissertation](Dissertation/dissertation.pdf) in Computer Graphics, entitled: Modeling Volumetric Clouds.
 
 A shader ([material graph](MaterialGraph/) in UE 5.3.2) was developed to model clouds:
 
