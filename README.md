@@ -1,6 +1,6 @@
 # Modeling Volumetric Clouds
 
-Master's [dissertation](https://drive.google.com/file/d/1FEx7_ofGtQCDe-PSPsKEA2OZYG4zqg3g/view?usp=sharing) in Computer Graphics, entitled: Modeling Volumetric Clouds.
+Master's [dissertation](https://drive.google.com/file/d/1FEx7_ofGtQCDe-PSPsKEA2OZYG4zqg3g/view?usp=drive_link) in Computer Graphics, entitled: Modeling Volumetric Clouds.
 
 A shader ([material graph](MaterialGraph/) in UE 5.3.2) was developed to model clouds:
 
@@ -11,8 +11,8 @@ A shader ([material graph](MaterialGraph/) in UE 5.3.2) was developed to model c
 - Cloud animation is simple pseudo-motion;
 - Developed as a [plugin](PG47702_VClouds/Plugins/).
 
-The template project has all the examples present in the results section of the [dissertation](https://drive.google.com/file/d/1FEx7_ofGtQCDe-PSPsKEA2OZYG4zqg3g/view?usp=sharing) (using Material Instances).
-The [dissertation](https://drive.google.com/file/d/1FEx7_ofGtQCDe-PSPsKEA2OZYG4zqg3g/view?usp=sharing) shall be used for any needed documentation.
+The template project has all the examples present in the results section of the [dissertation](https://drive.google.com/file/d/1FEx7_ofGtQCDe-PSPsKEA2OZYG4zqg3g/view?usp=drive_link) (using Material Instances).
+The [dissertation](https://drive.google.com/file/d/1FEx7_ofGtQCDe-PSPsKEA2OZYG4zqg3g/view?usp=drive_link) shall be used for any needed documentation.
 
 The example results were rendered with the [HG+D](PhaseFunctionSampling/hg_d.hlsl) model, with *d = 12.0* (the *PhaseBlend* variable).
 
